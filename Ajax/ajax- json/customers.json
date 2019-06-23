@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "company": "123 Designs",
+        "phone": 9434609916
+    },
+    {
+        "id": 2,
+        "name": "Supantha Paul",
+        "company": "UnityNerds",
+        "phone": 7718738004
+    },
+    {
+        "id": 3,
+        "name": "Brad Traversy",
+        "company": "Terversy Media",
+        "phone": 6473647363
+    }
+]
